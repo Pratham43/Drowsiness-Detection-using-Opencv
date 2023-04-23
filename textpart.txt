@@ -1,0 +1,6 @@
+if(count == 0)
+     {
+      String msg = "Saline level Low!!!";
+      thing.sendMsg("+917028851709",msg);
+     }
+     count+=1;
